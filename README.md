@@ -3,7 +3,7 @@ Hello there! 👋
 
 ### About me:
 - 👋 My pronouns are he/him.
-- 💼 I am a Software Engineer at [AfterSchool HQ](https://afterschoolhq.com/).
+- 💼 I am a Senior Software Engineer at [AfterSchool HQ](https://afterschoolhq.com/).
 - 🔭 I am currently working on Angular front-end design and C# APIs.
 - 🌱 I am currently learning Cypress testing and design patterns.
 - 👯 I am looking to collaborate on technical presentations and public speaking.
