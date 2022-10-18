@@ -2,8 +2,8 @@
 Hello there! 👋
 
 ### About me:
-- 👋 My pronouns are he/him.
-- 💼 I am a Senior Software Engineer at [AfterSchool HQ](https://afterschoolhq.com/).
+- 👋 My pronouns are he/him/his.
+- 💼 I am a Senior Software Engineer at [SamCart](https://www.samcart.com/).
 - 🔭 I am currently working on Angular front-end design and C# APIs.
 - 🌱 I am currently learning Cypress testing and design patterns.
 - 👯 I am looking to collaborate on technical presentations and public speaking.
